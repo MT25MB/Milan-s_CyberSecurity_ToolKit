@@ -486,7 +486,7 @@ Milan's Cybersecurity Toolkit:
 13. Website Crawler
 14. Steganography (Hide Message in Image)
 15. Steganography (Extract Message from Image)
-16. Ransomware Simulation (USE WITH CAUTION)
+16. Ransomware Simulation (USE WITH EXTREME CAUTION)
 17. Tor Proxy Integration
 18. Firewall Rule Tester
 19. Wireless Network Scanner
